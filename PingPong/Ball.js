@@ -1,4 +1,4 @@
-export default class ball {
+export default class Ball {
   constructor(ballElm) {
     this.ballElm = ballElm;
   }
